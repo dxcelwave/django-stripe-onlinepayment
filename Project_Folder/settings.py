@@ -13,7 +13,7 @@ STATIC_DIR = BASE_DIR / "static"
 MEDIA_DIR = BASE_DIR / "media"
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-@f$u@!(6!^&hgdk=jty8tu3690ptrykw&qtp_dq2)@&lswwnbi'
+SECRET_KEY = 'hogehoge'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
